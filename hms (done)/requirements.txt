@@ -1,0 +1,7 @@
+# Hospital Management System Requirements
+# This is a standalone Python application using Tkinter and SQLite
+# No additional packages are required beyond standard Python libraries
+
+# Python 3.6 or higher is required
+# Tkinter is included with standard Python installation
+# SQLite3 is included with standard Python installation
