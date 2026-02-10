@@ -1,0 +1,212 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Madrid"],
+      "correct_answer": "C",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": 2,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correct_answer": "B",
+      "difficulty": "easy",
+      "category": "science"
+    },
+    {
+      "id": 3,
+      "question": "What is 15 × 8?",
+      "options": ["120", "125", "130", "115"],
+      "correct_answer": "A",
+      "difficulty": "medium",
+      "category": "mathematics"
+    },
+    {
+      "id": 4,
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "correct_answer": "B",
+      "difficulty": "medium",
+      "category": "literature"
+    },
+    {
+      "id": 5,
+      "question": "What is the largest mammal in the world?",
+      "options": ["Elephant", "Giraffe", "Blue Whale", "Hippopotamus"],
+      "correct_answer": "C",
+      "difficulty": "easy",
+      "category": "biology"
+    },
+    {
+      "id": 6,
+      "question": "In which year did World War II end?",
+      "options": ["1944", "1945", "1946", "1947"],
+      "correct_answer": "B",
+      "difficulty": "medium",
+      "category": "history"
+    },
+    {
+      "id": 7,
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "correct_answer": "C",
+      "difficulty": "medium",
+      "category": "chemistry"
+    },
+    {
+      "id": 8,
+      "question": "Which programming language was developed by Guido van Rossum?",
+      "options": ["Java", "Python", "C++", "JavaScript"],
+      "correct_answer": "B",
+      "difficulty": "medium",
+      "category": "technology"
+    },
+    {
+      "id": 9,
+      "question": "What is the square root of 144?",
+      "options": ["11", "12", "13", "14"],
+      "correct_answer": "B",
+      "difficulty": "easy",
+      "category": "mathematics"
+    },
+    {
+      "id": 10,
+      "question": "Which ocean is the largest?",
+      "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+      "correct_answer": "D",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": 11,
+      "question": "What is the speed of light in vacuum?",
+      "options": ["299,792,458 m/s", "300,000,000 m/s", "299,800,000 m/s", "298,000,000 m/s"],
+      "correct_answer": "A",
+      "difficulty": "hard",
+      "category": "physics"
+    },
+    {
+      "id": 12,
+      "question": "Which element has the atomic number 1?",
+      "options": ["Helium", "Hydrogen", "Lithium", "Carbon"],
+      "correct_answer": "B",
+      "difficulty": "medium",
+      "category": "chemistry"
+    },
+    {
+      "id": 13,
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+      "correct_answer": "B",
+      "difficulty": "easy",
+      "category": "art"
+    },
+    {
+      "id": 14,
+      "question": "What is the capital of Japan?",
+      "options": ["Osaka", "Kyoto", "Tokyo", "Nagoya"],
+      "correct_answer": "C",
+      "difficulty": "easy",
+      "category": "geography"
+    },
+    {
+      "id": 15,
+      "question": "Which data structure uses LIFO (Last In, First Out) principle?",
+      "options": ["Queue", "Stack", "Array", "Linked List"],
+      "correct_answer": "B",
+      "difficulty": "medium",
+      "category": "computer_science"
+    },
+    {
+      "id": 16,
+      "question": "What is the derivative of x²?",
+      "options": ["x", "2x", "x²", "2x²"],
+      "correct_answer": "B",
+      "difficulty": "medium",
+      "category": "mathematics"
+    },
+    {
+      "id": 17,
+      "question": "Which country is both in Europe and Asia?",
+      "options": ["Russia", "Turkey", "Kazakhstan", "All of the above"],
+      "correct_answer": "D",
+      "difficulty": "hard",
+      "category": "geography"
+    },
+    {
+      "id": 18,
+      "question": "What does HTML stand for?",
+      "options": ["Hyper Text Markup Language", "Home Tool Markup Language", "Hyperlinks and Text Markup Language", "Hyper Tool Multi Language"],
+      "correct_answer": "A",
+      "difficulty": "easy",
+      "category": "technology"
+    },
+    {
+      "id": 19,
+      "question": "Which gas makes up the majority of Earth's atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correct_answer": "C",
+      "difficulty": "medium",
+      "category": "science"
+    },
+    {
+      "id": 20,
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "correct_answer": "C",
+      "difficulty": "medium",
+      "category": "mathematics"
+    },
+    {
+      "id": 21,
+      "question": "Which ancient wonder of the world was located in Alexandria?",
+      "options": ["Colossus of Rhodes", "Lighthouse of Alexandria", "Hanging Gardens of Babylon", "Temple of Artemis"],
+      "correct_answer": "B",
+      "difficulty": "hard",
+      "category": "history"
+    },
+    {
+      "id": 22,
+      "question": "What is the currency of the United Kingdom?",
+      "options": ["Euro", "Dollar", "Pound Sterling", "Franc"],
+      "correct_answer": "C",
+      "difficulty": "easy",
+      "category": "economics"
+    },
+    {
+      "id": 23,
+      "question": "Which sorting algorithm has the best average-case time complexity?",
+      "options": ["Bubble Sort", "Quick Sort", "Selection Sort", "Insertion Sort"],
+      "correct_answer": "B",
+      "difficulty": "hard",
+      "category": "computer_science"
+    },
+    {
+      "id": 24,
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Cytoplasm"],
+      "correct_answer": "C",
+      "difficulty": "medium",
+      "category": "biology"
+    },
+    {
+      "id": 25,
+      "question": "Which composer wrote 'The Four Seasons'?",
+      "options": ["Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Antonio Vivaldi", "Ludwig van Beethoven"],
+      "correct_answer": "C",
+      "difficulty": "medium",
+      "category": "music"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created_date": "2025-08-26",
+    "total_questions": 25,
+    "difficulties": ["easy", "medium", "hard"],
+    "categories": ["geography", "science", "mathematics", "literature", "biology", "history", "chemistry", "technology", "physics", "art", "computer_science", "economics", "music"],
+    "description": "Sample questions for Quiz Master application covering various topics and difficulty levels."
+  }
+}

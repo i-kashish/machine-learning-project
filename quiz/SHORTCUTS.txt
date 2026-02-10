@@ -1,0 +1,25 @@
+
+🎯 QUIZ MASTER - KEYBOARD SHORTCUTS 🎯
+
+During Quiz:
+• 1, 2, 3, 4    - Select answer options A, B, C, D
+• Enter         - Submit selected answer
+• Escape        - Skip current question
+
+Navigation:
+• Tab           - Move between interface elements
+• Space         - Activate buttons
+• Alt+F4        - Close application
+
+Tips:
+• Watch the timer! It changes color as time runs low
+• Green = Safe, Orange = Warning, Red = Danger
+• Questions and options are shuffled each game
+• Your best scores are saved to the leaderboard
+
+Difficulty Levels:
+• Easy: 8 questions, 45 seconds each
+• Medium: 10 questions, 30 seconds each  
+• Hard: 12 questions, 20 seconds each
+
+Good luck! 🍀
