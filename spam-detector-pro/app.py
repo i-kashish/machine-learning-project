@@ -137,6 +137,7 @@ HTML_TEMPLATE = '''
                 {% endif %}
             </div>
             {% endif %}
+            <p style="text-align:center; margin-top:20px; opacity:0.5; font-size:12px;"> Built by Tera Naam 🚀 </p>
         </div>
     </div>
 </body>
