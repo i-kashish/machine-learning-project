@@ -1,0 +1,22 @@
+[
+  "pizzas_sold",
+  "orders",
+  "avg_pizza_price",
+  "unique_pizza_types",
+  "lunch_orders",
+  "dinner_orders",
+  "day_of_week",
+  "month",
+  "day_of_month",
+  "is_weekend",
+  "avg_order_value",
+  "revenue_lag_1",
+  "orders_lag_1",
+  "revenue_lag_7",
+  "orders_lag_7",
+  "revenue_lag_14",
+  "orders_lag_14",
+  "revenue_7d_avg",
+  "orders_7d_avg",
+  "pizzas_sold_7d_avg"
+]

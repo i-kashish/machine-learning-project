@@ -1,0 +1,9 @@
+{
+  "rows_used": 344,
+  "train_days": 275,
+  "test_days": 69,
+  "mae": 53.86,
+  "rmse": 142.9,
+  "r2": 0.9274,
+  "average_daily_revenue": 2283.43
+}
